@@ -12,6 +12,8 @@ I have tried many different programs/ apps, from vivavideo (yes, not the peak of
 
 ![screenshot](https://github.com/beeyawnncuh/Editing/blob/main/project%20view.PNG)
 
+Another feature Videostar provides is how long you've spent editing that project. If you click on the small 
+
 ```markdown
 Syntax highlighted code block
 
