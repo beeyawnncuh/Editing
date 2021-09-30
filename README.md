@@ -12,7 +12,7 @@ I have tried many different programs/ apps, from vivavideo (yes, not the peak of
 
 ![screenshot](https://github.com/beeyawnncuh/Editing/blob/main/project%20view.PNG "Project view")
 
-Another feature Videostar provides is how long you've spent editing that project. If you click on the small "i" icon at the bottom right of the project a window will pop up telling you information about that specific project.
+### Another feature Videostar provides is how long you've spent editing that project. If you click on the small "i" icon at the bottom right of the project a window will pop up telling you information about that specific project.
 
 ![screenshot](https://github.com/beeyawnncuh/Editing/blob/main/project%20time.PNG "Project time and other info")
 
