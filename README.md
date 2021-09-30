@@ -18,20 +18,3 @@ I have tried many different programs/ apps, from vivavideo (yes, not the peak of
 
 If you want to know more about Videostar and the editing features they have you can check out their [instagram!](https://www.instagram.com/videostarapp/?hl=en)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
