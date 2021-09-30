@@ -16,6 +16,8 @@ I have tried many different programs/ apps, from vivavideo (yes, not the peak of
 
 ![screenshot](https://github.com/beeyawnncuh/Editing/blob/main/project%20time.PNG "Project time and other info")
 
+If you want to know more about Videostar and the editing features they have you can check out their [instagram!](https://www.instagram.com/videostarapp/?hl=en)
+
 ```markdown
 Syntax highlighted code block
 
