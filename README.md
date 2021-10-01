@@ -1,4 +1,3 @@
-<span style="color:blue">
 ## Editing, what is it?
 
 Editing can be a many number of things, whether you're changing the lighting of a photo or adding transitions to a video, these are both common forms of editing. Many people believe editing is only done for projects to make their presentation look more presentable. However, since editing is such a broad term for so many different actions it opens up a whole other world possibilities and experiences. So, I am going to shine light upon my own experience with editing.
@@ -23,3 +22,5 @@ To be honest, if I knew how to attach videos to websites I would try to include 
 
 ### Conclusion
 Editing is a very big part of my life as it serves as a coping mechanism and kind of the only talent I have if I'm being completely honest. But if you're ever looking for a hobby that could quite possibly be long term, editing is the way to go! It can be with photoshopping pictures, creating short films, or fan edits just like me :)
+
+<span style="color:blue">
