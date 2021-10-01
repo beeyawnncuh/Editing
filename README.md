@@ -20,5 +20,8 @@ If you want to know more about Videostar and the editing features they have you 
 
 To be honest, if I knew how to attach videos to websites I would try to include one of my edits but as you can probably tell I am very bad at coding, my apologies.
 
-### Conclusion
++ ### Conclusion
 Editing is a very big part of my life as it serves as a coping mechanism and kind of the only talent I have if I'm being completely honest. But if you're ever looking for a hobby that could quite possibly be long term, editing is the way to go! It can be with photoshopping pictures, creating short films, or fan edits just like me :)
+
+``` diff 
++ text in green
