@@ -10,7 +10,7 @@ I've been doing video editing of different pictures and clips to create what we 
 
 I have tried many different programs/ apps, from vivavideo (yes, not the peak of my editing career thats for sure), cutecut, alight motion, after effects, and videostar. The current app I use is videostar, since I find it to be very convenient since it allows me to make many edits with just my phone. Videostar is actually a pretty well known app in the fan editing community, and there are many options available in the app to enhance your editing experience. For example, you're able to view your current and previous projects with different "windows"
 
-![screenshot](https://dohack.info/wp-content/uploads/2018/12/48-saved-a-project_result-300x533.jpgg "Videostar homepage/ porject viewer")
+![screenshot](https://dohack.info/wp-content/uploads/2018/12/48-saved-a-project_result-300x533.jpg "Videostar homepage/ porject viewer")
 
 **Another feature Videostar provides is how long you've spent editing that project. If you click on the small "i" icon at the bottom right of the project a window will pop up telling you information about that specific project.**
 
