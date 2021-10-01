@@ -14,7 +14,7 @@ I have tried many different programs/ apps, from vivavideo (yes, not the peak of
 
 ***Another feature Videostar provides is how long you've spent editing that project. If you click on the small "i" icon at the bottom right of the project a window will pop up telling you information about that specific project.***
 
-![screenshot](https://github.com/beeyawnncuh/Editing/blob/main/project%20time.jpg "Project time and other info")
+![screenshot](file:///Users/bianca/Downloads/project%20time.jpg "Project time and other info")
 
 If you want to know more about Videostar and the editing features they have you can check out their [instagram!](https://www.instagram.com/videostarapp/?hl=en)
 
