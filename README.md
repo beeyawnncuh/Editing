@@ -1,4 +1,3 @@
-
 ## Editing, what is it?
 
 Editing can be a many number of things, whether you're changing the lighting of a photo or adding transitions to a video, these are both common forms of editing. Many people believe editing is only done for projects to make their presentation look more presentable. However, since editing is such a broad term for so many different actions it opens up a whole other world possibilities and experiences. So, I am going to shine light upon my own experience with editing.
