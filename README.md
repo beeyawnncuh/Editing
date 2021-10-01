@@ -23,3 +23,5 @@ To be honest, if I knew how to attach videos to websites I would try to include 
 
 ### Conclusion
 Editing is a very big part of my life as it serves as a coping mechanism and kind of the only talent I have if I'm being completely honest. But if you're ever looking for a hobby that could quite possibly be long term, editing is the way to go! It can be with photoshopping pictures, creating short films, or fan edits just like me :)
+
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
