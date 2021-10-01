@@ -14,7 +14,7 @@ I have tried many different programs/ apps, from vivavideo (yes, not the peak of
 
 ``` Another feature Videostar provides is how long you've spent editing that project. If you click on the small "i" icon at the bottom right of the project a window will pop up telling you information about that specific project. ```
 
-![screenshot](https://pm1.narvii.com/7231/a274f7f6f823c15681339427968e33c7a03b2930r1-856-1368v2_hq.jpg "Project time and other info")
+![screenshot](https://github.com/beeyawnncuh/Editing/blob/main/project%20time.jpg "Project time and other info")
 
 If you want to know more about Videostar and the editing features they have you can check out their [instagram!](https://www.instagram.com/videostarapp/?hl=en)
 
